@@ -95,3 +95,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 * AWS Auto Scaling User Guide: https://docs.aws.amazon.com/autoscaling/plans/userguide/what-is-aws-auto-scaling.html
 * AWS CloudFormation Best Practices: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html 
 * AWS CloudFormation Template Reference: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html 
+* AWS Linux 2 - query for latest AMI: https://aws.amazon.com/blogs/compute/query-for-the-latest-amazon-linux-ami-ids-using-aws-systems-manager-parameter-store/
+
